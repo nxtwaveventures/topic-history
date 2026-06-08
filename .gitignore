@@ -3,3 +3,9 @@ __pycache__/
 .DS_Store
 *.html
 !skills/topic-history/scripts/template.html
+
+# Topic outlines may contain private/sensitive decks.
+# Ignore everything under outlines/ except the public example.
+skills/topic-history/outlines/*
+!skills/topic-history/outlines/openai.md
+*.pdf
