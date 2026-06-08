@@ -1,0 +1,24 @@
+{
+  "name": "topic-history",
+  "owner": {
+    "name": "nxtwaveventures",
+    "url": "https://github.com/nxtwaveventures"
+  },
+  "metadata": {
+    "description": "Marketplace hosting the Topic History mindmap plugin - a grounding companion to last30days."
+  },
+  "plugins": [
+    {
+      "name": "topic-history",
+      "description": "Render the full historical arc of any topic as a quick interactive mindmap. Companion to last30days.",
+      "version": "0.1.0",
+      "author": {
+        "name": "nxtwaveventures",
+        "url": "https://github.com/nxtwaveventures"
+      },
+      "source": "./",
+      "category": "productivity",
+      "homepage": "https://github.com/nxtwaveventures/topic-history"
+    }
+  ]
+}

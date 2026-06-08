@@ -1,0 +1,13 @@
+{
+  "name": "topic-history",
+  "version": "0.1.0",
+  "description": "Render the full historical arc of any topic - origins, eras, turning points, the last 30 days, and where it's heading - as a quick interactive mindmap. A grounding companion to last30days.",
+  "author": {
+    "name": "nxtwaveventures",
+    "url": "https://github.com/nxtwaveventures"
+  },
+  "homepage": "https://github.com/nxtwaveventures/topic-history",
+  "repository": "https://github.com/nxtwaveventures/topic-history",
+  "license": "MIT",
+  "keywords": ["research", "history", "timeline", "mindmap", "markmap", "last30days", "knowledge", "learning"]
+}
