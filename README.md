@@ -9,6 +9,17 @@ where `last30days` makes you *current*, Topic History makes you a *master*. Bein
 up to date on the last 30 days isn't the same as understanding how something got
 to where it is - this fills that gap, fast.
 
+## Built on top of `last30days`
+
+This stands on the shoulders of [**`last30days`** by Matt Van Horn](https://github.com/mvanhorn/last30days-skill),
+which does the hard part: pulling what people are actually saying across Reddit, X,
+YouTube, Hacker News, Polymarket, GitHub and more for the *latest 30 days*.
+
+**What this repo adds is the graphical history layer** - a fast, visual way to see a
+topic's whole arc as a mindmap (origins → eras → turning points → *now* → trajectory),
+and it folds `last30days`'s recent slice into the "Now" branch. So: `last30days` =
+*the latest, in depth*; Topic History = *the whole story, at a glance*. Use them together.
+
 ![arc: origins → eras → turning points → now → trajectory](https://img.shields.io/badge/arc-origins%20%E2%86%92%20now%20%E2%86%92%20trajectory-0f172a)
 
 ## How it works

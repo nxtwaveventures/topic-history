@@ -10,7 +10,7 @@
   "plugins": [
     {
       "name": "topic-history",
-      "description": "Render the full historical arc of any topic as a quick interactive mindmap. Companion to last30days.",
+      "description": "The graphical history layer built on top of last30days (by Matt Van Horn): render any topic's full arc as a quick interactive mindmap. last30days = latest in depth; this = the whole story at a glance.",
       "version": "0.1.0",
       "author": {
         "name": "nxtwaveventures",

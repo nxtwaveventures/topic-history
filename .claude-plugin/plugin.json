@@ -1,7 +1,7 @@
 {
   "name": "topic-history",
   "version": "0.1.0",
-  "description": "Render the full historical arc of any topic - origins, eras, turning points, the last 30 days, and where it's heading - as a quick interactive mindmap. A grounding companion to last30days.",
+  "description": "The graphical history layer built on top of last30days (by Matt Van Horn): render any topic's full arc - origins, eras, turning points, the last 30 days, and where it's heading - as a quick interactive mindmap. last30days = the latest in depth; Topic History = the whole story at a glance.",
   "author": {
     "name": "nxtwaveventures",
     "url": "https://github.com/nxtwaveventures"
